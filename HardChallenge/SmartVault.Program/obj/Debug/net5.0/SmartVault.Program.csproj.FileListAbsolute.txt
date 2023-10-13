@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.AssemblyInfo.cs
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.exe
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.deps.json
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.runtimeconfig.json
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.runtimeconfig.dev.json
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.dll
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\bin\Debug\net5.0\SmartVault.Program.pdb
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.dll
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\refint\SmartVault.Program.dll
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.pdb
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\SmartVault.Program.genruntimeconfig.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.Program\obj\Debug\net5.0\ref\SmartVault.Program.dll

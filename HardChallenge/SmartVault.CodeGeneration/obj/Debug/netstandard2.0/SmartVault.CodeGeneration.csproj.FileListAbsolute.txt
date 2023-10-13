@@ -1,0 +1,20 @@
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.deps.json
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfo.cs
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Downloads\SmartVault-Interview-V5 (1)\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.deps.json
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\bin\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.dll
+C:\Users\Guilherme\source\repos\CodeTestInterview\BothChallenges\HardChallenge\SmartVault.CodeGeneration\obj\Debug\netstandard2.0\SmartVault.CodeGeneration.pdb
