@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1D9tEEaicvtwSuFL4J8kmCudMlCcOJwNwNWQL+8ljtrbZ0sOteNKOHQnRgXN/COMe6Pxfrwh88kHaCjkG0weQ==",
+  "dgSpecHash": "6+8oMYkT5BZV7xVq/Nl6/3XVRQAbsO9ybhv9OQPxNq/wK7VOvJN/U5c+8vlC5xmGwhbYHlrKPUxmw8gKDjyuvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.codeanalysis.common\\4.4.0\\microsoft.codeanalysis.common.4.4.0.nupkg.sha512",

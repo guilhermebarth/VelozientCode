@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj": {}
+    "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj": {
+    "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
         "projectName": "SmartVault.CodeGeneration",
-        "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
+        "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\SmartVault.CodeGeneration.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.CodeGeneration\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.CodeGeneration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

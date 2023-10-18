@@ -3561,11 +3561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
+      "projectUniqueName": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
       "projectName": "SmartVault.ProjectProgramTest",
-      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
+      "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.ProjectProgramTest\\obj\\",
+      "outputPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.ProjectProgramTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3585,11 +3585,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.DataGeneration\\SmartVault.DataGeneration.csproj": {
-              "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.DataGeneration\\SmartVault.DataGeneration.csproj"
+            "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.DataGeneration\\SmartVault.DataGeneration.csproj": {
+              "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.DataGeneration\\SmartVault.DataGeneration.csproj"
             },
-            "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.Program\\SmartVault.Program.csproj": {
-              "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.Program\\SmartVault.Program.csproj"
+            "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.Program\\SmartVault.Program.csproj": {
+              "projectPath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.Program\\SmartVault.Program.csproj"
             }
           }
         }

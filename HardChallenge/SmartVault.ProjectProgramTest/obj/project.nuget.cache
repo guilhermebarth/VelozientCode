@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bO35U9utaSuRFpMN8avlXWnqO0OQbLDB29bx9kYGadroldM0bGUTH8Q2aM+d5GpLNr4FfH/KEb6+mBEPsyj2bw==",
+  "dgSpecHash": "f/p17AFnol4sqfbkPVFtW9Oi3ZLCy29HlB9A3EXQY1vgytavvy6guZVnfsNj1R42KeGJumQz/PQQH6I4Z24kqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\BothChallenges\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
+  "projectFilePath": "C:\\Users\\Guilherme\\source\\repos\\CodeTestInterview\\VelozientCode\\HardChallenge\\SmartVault.ProjectProgramTest\\SmartVault.ProjectProgramTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

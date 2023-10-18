@@ -35,33 +35,33 @@ namespace SmartVault.DataGeneration
                 }
                 var documentNumber = 0;
 
-                List<string> insertValues = new List<string>();
+                List<string> insertDocumentValues = new List<string>();
+                List<string> insertUserValues = new List<string>();
+                List<string> insertAccountValues = new List<string>();
                 for (int i = 0; i < 100; i++)
                 {
                     var randomDayIterator = RandomDay().GetEnumerator();
                     randomDayIterator.MoveNext();
-                    connection.Execute($"INSERT INTO User (Id, FirstName, LastName, DateOfBirth, AccountId, Username, Password, CreatedOn) VALUES('{i}','FName{i}','LName{i}','{randomDayIterator.Current.ToString("yyyy-MM-dd")}','{i}','UserName-{i}','e10adc3949ba59abbe56e057f20f883e', '{DateTime.Now.Date}')");
-                    connection.Execute($"INSERT INTO Account (Id, Name, CreatedOn) VALUES('{i}','Account{i}', '{DateTime.Today.Date}')");
 
-                    
+                    insertUserValues.Add($"('{i}', 'FName{i}', 'LName{i}', '{randomDayIterator.Current.ToString("yyyy-MM-dd")}', '{i}', 'UserName-{i}', 'e10adc3949ba59abbe56e057f20f883e', '{DateTime.Now.Date}')");
+                    insertAccountValues.Add($"('{i}','Account{i}', '{DateTime.Today.Date}')");
 
                     for (int d = 0; d < 10000; d++, documentNumber++)
                     {
                         var documentPath = new FileInfo("TestDoc.txt").FullName;
 
-                        insertValues.Add($"('{documentNumber}','Document{i}-{d}.txt','{documentPath}','{new FileInfo(documentPath).Length}','{i}', '{DateTime.Today.Date.ToString("yyyy-MM-dd")}')");
+                        insertDocumentValues.Add($"('{documentNumber}','Document{i}-{d}.txt','{documentPath}','{new FileInfo(documentPath).Length}','{i}', '{DateTime.Today.Date.ToString("yyyy-MM-dd")}')");
 
                     }
-                    // Debuging: My results were around two and half minutes
-                    // 00:02:24
-                    // 00:02:13
-                    // 00:02:52
-                    // 00:02:15
                 }
 
-                string myBigValue = string.Join(',', insertValues);
+                string documentValues = string.Join(',', insertDocumentValues);
+                string userValues = string.Join(',', insertUserValues);
+                string accountValues = string.Join(',', insertAccountValues);
 
-                connection.Execute($"INSERT INTO Document (Id, Name, FilePath, Length, AccountId, CreatedOn) VALUES {myBigValue}");
+                connection.Execute($"INSERT INTO User (Id, FirstName, LastName, DateOfBirth, AccountId, Username, Password, CreatedOn) VALUES {userValues}");
+                connection.Execute($"INSERT INTO Account (Id, Name, CreatedOn) VALUES {accountValues}");
+                connection.Execute($"INSERT INTO Document (Id, Name, FilePath, Length, AccountId, CreatedOn) VALUES {documentValues}");
 
                 Console.WriteLine(DateTime.Now);
                 var accountData = connection.Query("SELECT COUNT(*) FROM Account;");
@@ -70,7 +70,7 @@ namespace SmartVault.DataGeneration
                 Console.WriteLine($"DocumentCount: {JsonConvert.SerializeObject(documentData)}");
                 var userData = connection.Query("SELECT COUNT(*) FROM User;");
                 Console.WriteLine($"UserCount: {JsonConvert.SerializeObject(userData)}");
-                
+
             }
         }
 
